@@ -1,0 +1,10 @@
+# Built-in libraries - no installation needed
+# tkinter
+# re
+# string
+# hmac
+# hashlib
+
+# Optional - for extra features
+pyperclip>=1.8.2
+ttkthemes>=3.2.0
